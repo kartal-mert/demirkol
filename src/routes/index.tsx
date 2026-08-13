@@ -204,7 +204,7 @@ function Index() {
           playsInline
           className="absolute inset-0 h-full w-full object-cover object-left md:object-center z-0"
         >
-          <source src="/atasehir-boxing.mp4" type="video/mp4" />
+          <source src={`${import.meta.env.BASE_URL}atasehir-boxing.mp4`} type="video/mp4" />
         </video>
         {/* Karartma Katmanı (Overlay) */}
         <div className="absolute inset-0 bg-background/80 z-10" />
