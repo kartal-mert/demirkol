@@ -1,0 +1,1 @@
+var e=`/demirkol/assets/atasehir-boks-ozel-ders-fikret-demirkol-DaTWcVPW.webp`,t=`/demirkol/assets/atasehir-birebir-boks-dersi-vedat-demirkol-n78OP_Cy.webp`,n=`/demirkol/assets/atasehir-boks-salonu-nusret-demirkol-Cl9n0g_H.webp`,r=`/demirkol/assets/atasehir-kisisel-boks-antrenoru-mertcan-kaya-Crq_HaZo.png`;export{e as i,n,t as r,r as t};
