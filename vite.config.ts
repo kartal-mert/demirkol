@@ -15,5 +15,5 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
   ],
-  base: "/demirkol/",
+  base: "/",
 });
